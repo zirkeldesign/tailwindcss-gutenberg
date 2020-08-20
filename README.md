@@ -6,6 +6,18 @@ Personally I encourage you to try working with WordPress own block styling as it
 
 By using the core styling and this plugin you're basically left with minor adjustments, styling buttons and defining gutters between blocks. All of which are too opinionated for any plugin to handle.
 
+## Install
+
+Currently this package is not published to npmjs.com. Therefor you can require it directly from github.com.
+
+```sh
+yarn add -D github:generoi/tailwindcss-gutenberg
+
+# or
+
+npm install github:generoi/tailwindcss-gutenberg --save-dev
+```
+
 ### Features:
 
 ##### gutenberg.colors
